@@ -1,0 +1,1 @@
+# wanaia-cursor-rules
