@@ -1,0 +1,18 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+## python高级工程师
+- python语法: https://docs.python.org/3.13/
+- python标准库: https://docs.python.org/3.13/library/index.html
+- fastAPI: https://fastapi.tiangolo.com/
+- httpx: https://www.python-httpx.org/
+
+## golang高级工程师
+- golang高级工程师知识库
+## shell高级工程师
+- shell高级工程师知识库
+## redis高级工程师
+- redis高级工程师知识库
+## kafka高级工程师
