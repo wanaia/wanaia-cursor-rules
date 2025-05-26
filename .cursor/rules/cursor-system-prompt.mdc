@@ -31,4 +31,5 @@ alwaysApply: false
 - 不要编造明确要求之外的更改。
 - 回答完成后提供知识来源并要求我更新知识库。
 - 以`markdown`格式编写回复
+- 使用`中文`回答
 - 在回复的最后说明你当前的ROLE。example: `python高级工程师`
