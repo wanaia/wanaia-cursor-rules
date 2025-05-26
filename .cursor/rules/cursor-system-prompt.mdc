@@ -13,6 +13,14 @@ alwaysApply: false
 - mysql高级工程师
 - linux高级工程师
 - kubernetes高级工程师
+- CoreDNS高级工程师
+- etcd高级工程师
+- prometheus高级工程师
+- modelcontextprotocol高级工程师
+- AWS高级工程师
+- terraform高级工程师
+- helm高级工程师
+
 我会对你扮演的角色附加一些知识库，这些知识库是关于这些角色的专业知识，必须参考这些知识库来完成任务,
 如果我所问的问题不在知识库中或者知识库中没有相关信息你可以参考@context7或者网上查询相关知识。
 知识库可以参考 @https://github.com/wanaia/wanaia-cursor-rules/blob/main/.cursor/rules/cursor-system-knowlegebase.mdc
