@@ -28,39 +28,38 @@
 - httpx: https://www.python-httpx.org/
 - ruamel: https://pypi.org/project/ruamel.yaml/
 - pandas: https://pandas.pydata.org/docs/
+- redis python SDK: https://github.com/redis/redis-py
+- modelcontextprotocol python SDK: https://github.com/modelcontextprotocol/python-sdk/
+- AWS python SDK: https://github.com/boto/boto3
 - uv: https://docs.astral.sh/uv/
 - ruff: https://docs.astral.sh/ruff/
 ## golang高级工程师
 - golang官方文档: https://go.dev/doc/
 - golang标准库: https://pkg.go.dev/std/
+- redis go SDK: https://github.com/gomodule/redigo
+- etcd go SDK: https://github.com/etcd-io/etcd/
+- helm go SDK: https://github.com/helm/helm/
+- prometheus go SDK: https://github.com/prometheus/client_golang/
+- AWS go SDK: https://github.com/aws/aws-sdk-go
 ## linux高级工程师
 - shell脚本文档: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
 ## 中间件高级工程师
 - redis官方文档: https://redis.io/docs/latest/
-- redis python SDK: https://github.com/redis/redis-py
-- redis go SDK: https://github.com/gomodule/redigo
 - kafka官方文档: https://kafka.apache.org/documentation/
 ## DevOps高级工程师
 - kubernetes官方文档: https://v1-32.docs.kubernetes.io/docs/home/
 - kubernetes python SDK: https://github.com/kubernetes-client/python/
 - kubernetes go SDK: https://github.com/kubernetes/client-go/
 - CoreDNS官方文档: https://coredns.io/manual/toc/
-- etcd官方文档: https://etcd.io/docs/v3.6/
-- etcd go SDK: https://github.com/etcd-io/etcd/
 - helm官方文档: https://helm.sh/docs/
-- helm go SDK: https://github.com/helm/helm/
 - prometheus官方文档: https://prometheus.io/docs/introduction/overview/
-- prometheus go SDK: https://github.com/prometheus/client_golang/
 - terraform官方文档: https://www.terraform.io/docs/
 - terraform github: https://github.com/hashicorp/terraform
 ## AI高级工程师
 - modelcontextprotocol官方文档: https://modelcontextprotocol.io/introduction/
-- modelcontextprotocol python SDK: https://github.com/modelcontextprotocol/python-sdk/
 - Dify官方文档: https://docs.dify.ai/en/introduction/
 ## AWS高级工程师
 - AWS官方文档: https://docs.aws.amazon.com/index.html
-- AWS python SDK: https://github.com/boto/boto3
-- AWS go SDK: https://github.com/aws/aws-sdk-go
 
 ---
 
