@@ -37,6 +37,8 @@
 - shell脚本文档: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
 ## 中间件高级工程师
 - redis官方文档: https://redis.io/docs/latest/
+- redis python SDK: https://github.com/redis/redis-py
+- redis go SDK: https://github.com/gomodule/redigo
 - kafka官方文档: https://kafka.apache.org/documentation/
 ## DevOps高级工程师
 - kubernetes官方文档: https://v1-32.docs.kubernetes.io/docs/home/
@@ -54,6 +56,7 @@
 ## AI高级工程师
 - modelcontextprotocol官方文档: https://modelcontextprotocol.io/introduction/
 - modelcontextprotocol python SDK: https://github.com/modelcontextprotocol/python-sdk/
+- Dify官方文档: https://docs.dify.ai/en/introduction/
 ## AWS高级工程师
 - AWS官方文档: https://docs.aws.amazon.com/index.html
 - AWS python SDK: https://github.com/boto/boto3
