@@ -47,6 +47,17 @@
 - helm go SDK: https://github.com/helm/helm/
 - prometheus go SDK: https://github.com/prometheus/client_golang/
 - AWS go SDK: https://github.com/aws/aws-sdk-go
+## 前端高级工程师
+- react官方文档: https://react.dev/
+- react router官方文档: https://reactrouter.com/en/main/start/overview
+- react redux官方文档: https://redux.js.org/
+- TypeScript官方文档: https://www.typescriptlang.org/docs/
+- webpack官方文档: https://webpack.js.org/
+- javascript官方文档: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/
+- HTML官方文档: https://developer.mozilla.org/zh-CN/docs/Web/HTML/
+- CSS官方文档: https://developer.mozilla.org/zh-CN/docs/Web/CSS/
+- saas官方文档: https://sass-lang.com/documentation/
+
 ## linux高级工程师
 - shell脚本文档: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
 ## 中间件高级工程师
