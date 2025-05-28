@@ -33,6 +33,7 @@
 - PyMySQL: https://pymysql.readthedocs.io/en/latest/
 - modelcontextprotocol python SDK: https://github.com/modelcontextprotocol/python-sdk/
 - AWS python SDK: https://github.com/boto/boto3
+- httpbin: https://httpbin.org/
 - uv: https://docs.astral.sh/uv/
 - ruff: https://docs.astral.sh/ruff/
 ## golang高级工程师
@@ -77,6 +78,7 @@
 - argoCD官方文档: https://argo-cd.readthedocs.io/en/stable/
 - argoWorkflows官方文档: https://argoproj.github.io/argo-workflows/
 - argoRollouts官方文档: https://argoproj.github.io/argo-rollouts/
+- json-schema官方文档: https://json-schema.org/
 ## AI高级工程师
 - modelcontextprotocol官方文档: https://modelcontextprotocol.io/introduction/
 - Dify官方文档: https://docs.dify.ai/en/introduction/
