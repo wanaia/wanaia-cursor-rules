@@ -29,10 +29,11 @@
 - ruamel: https://pypi.org/project/ruamel.yaml/
 - PyYaml: https://pyyaml.org/wiki/PyYAMLDocumentation/
 - pandas: https://pandas.pydata.org/docs/
-- redis python SDK: https://github.com/redis/redis-py
+- redis python SDK: https://github.com/redis/redis-py/
 - PyMySQL: https://pymysql.readthedocs.io/en/latest/
 - modelcontextprotocol python SDK: https://github.com/modelcontextprotocol/python-sdk/
-- AWS python SDK: https://github.com/boto/boto3
+- AWS python SDK: https://github.com/boto/boto3/
+- uvicorn: https://www.uvicorn.org/
 - httpbin: https://httpbin.org/
 - uv: https://docs.astral.sh/uv/
 - ruff: https://docs.astral.sh/ruff/
