@@ -33,7 +33,7 @@
 - PyMySQL: https://pymysql.readthedocs.io/en/latest/
 - modelcontextprotocol python SDK: https://github.com/modelcontextprotocol/python-sdk/
 - AWS python SDK: https://github.com/boto/boto3/
-- uvicorn: https://www.uvicorn.org/
+- uvicorn官方文档: https://www.uvicorn.org/
 - httpbin: https://httpbin.org/
 - uv: https://docs.astral.sh/uv/
 - ruff: https://docs.astral.sh/ruff/
