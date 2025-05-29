@@ -95,7 +95,7 @@
 
 **【代码要求】**
 - 代码注释全部使用`english`
-- python代码风格使用`ruff`格式化, 使用`uv add`管理依赖
+- python代码风格使用`ruff`, 使用`uv add`管理依赖
 
 ---
 
