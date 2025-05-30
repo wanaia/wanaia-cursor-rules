@@ -73,6 +73,9 @@
 - CoreDNS官方文档: https://coredns.io/manual/toc/
 - ETCD官方文档: https://etcd.io/docs/
 - containerd官方文档: https://containerd.io/docs/
+- envoy官方文档: https://www.envoyproxy.io/docs/
+- istio官方文档: https://istio.io/latest/docs/
+- rook官方文档: https://rook.github.io/docs/rook/v1.17/Getting-Started/intro/
 - helm官方文档: https://helm.sh/docs/
 - prometheus官方文档: https://prometheus.io/docs/introduction/overview/
 - keda官方文档: https://keda.sh/docs/2.17/
