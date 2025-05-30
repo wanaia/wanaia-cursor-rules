@@ -71,11 +71,13 @@
 - kubernetes python SDK: https://github.com/kubernetes-client/python/
 - kubernetes go SDK: https://github.com/kubernetes/client-go/
 - CoreDNS官方文档: https://coredns.io/manual/toc/
+- ETCD官方文档: https://etcd.io/docs/
+- containerd官方文档: https://containerd.io/docs/
 - helm官方文档: https://helm.sh/docs/
 - prometheus官方文档: https://prometheus.io/docs/introduction/overview/
 - keda官方文档: https://keda.sh/docs/2.17/
 - terraform官方文档: https://www.terraform.io/docs/
-- terraform github: https://github.com/hashicorp/terraform
+- terraform github: https://github.com/hashicorp/terraform/
 - argoCD官方文档: https://argo-cd.readthedocs.io/en/stable/
 - argoWorkflows官方文档: https://argoproj.github.io/argo-workflows/
 - argoRollouts官方文档: https://argoproj.github.io/argo-rollouts/
