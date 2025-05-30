@@ -1,0 +1,85 @@
+** 【知识库】 **
+## python高级工程师
+- python官方文档: https://docs.python.org/3.13/
+- python标准库: https://docs.python.org/3.13/library/index.html
+- fastAPI: https://fastapi.tiangolo.com/
+- httpx: https://www.python-httpx.org/
+- ruamel: https://pypi.org/project/ruamel.yaml/
+- PyYaml: https://pyyaml.org/wiki/PyYAMLDocumentation/
+- pandas: https://pandas.pydata.org/docs/
+- redis python SDK: https://github.com/redis/redis-py/
+- PyMySQL: https://pymysql.readthedocs.io/en/latest/
+- modelcontextprotocol python SDK: https://github.com/modelcontextprotocol/python-sdk/
+- AWS python SDK: https://github.com/boto/boto3/
+- uvicorn官方文档: https://www.uvicorn.org/
+- httpbin: https://httpbin.org/
+- uv: https://docs.astral.sh/uv/
+- ruff: https://docs.astral.sh/ruff/
+## golang高级工程师
+- golang官方文档: https://go.dev/doc/
+- golang标准库: https://pkg.go.dev/std/
+- gin: https://gin-gonic.com/en/docs/
+- zap: https://pkg.go.dev/go.uber.org/zap
+- viper: https://github.com/spf13/viper
+- GORM: https://gorm.io/
+- redis go SDK: https://github.com/gomodule/redigo
+- etcd go SDK: https://github.com/etcd-io/etcd/
+- helm go SDK: https://github.com/helm/helm/
+- prometheus go SDK: https://github.com/prometheus/client_golang/
+- AWS go SDK: https://github.com/aws/aws-sdk-go
+## 前端高级工程师
+- react官方文档: https://react.dev/
+- react router官方文档: https://reactrouter.com/en/main/start/overview
+- react redux官方文档: https://redux.js.org/
+- TypeScript官方文档: https://www.typescriptlang.org/docs/
+- webpack官方文档: https://webpack.js.org/
+- javascript官方文档: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/
+- HTML官方文档: https://developer.mozilla.org/zh-CN/docs/Web/HTML/
+- CSS官方文档: https://developer.mozilla.org/zh-CN/docs/Web/CSS/
+- saas官方文档: https://sass-lang.com/documentation/
+
+## linux高级工程师
+- shell脚本文档: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
+- linux kernel官方文档: https://docs.kernel.org/
+- curl 官方文档: https://curl.se/docs/
+## 中间件高级工程师
+- redis官方文档: https://redis.io/docs/latest/
+- kafka官方文档: https://kafka.apache.org/documentation/
+- MySQL官方文档: https://dev.mysql.com/doc/
+- rabbitMQ官方文档: https://www.rabbitmq.com/docs/
+- ActiveMQ官方文档: https://activemq.apache.org/
+- Nginx官方文档: https://nginx.org/en/docs/
+- elasticsearch官方文档: https://www.elastic.co/docs/solutions/search/
+- mongoDB官方文档: https://www.mongodb.com/docs/
+## DevOps高级工程师
+- kubernetes官方文档: https://v1-32.docs.kubernetes.io/docs/home/
+- kubernetes python SDK: https://github.com/kubernetes-client/python/
+- kubernetes go SDK: https://github.com/kubernetes/client-go/
+- CoreDNS官方文档: https://coredns.io/manual/toc/
+- ETCD官方文档: https://etcd.io/docs/
+- containerd官方文档: https://containerd.io/docs/
+- envoy官方文档: https://www.envoyproxy.io/docs/
+- istio官方文档: https://istio.io/latest/docs/
+- kube-vip官方文档: https://kube-vip.io/docs/
+- cert-manager官方文档: https://cert-manager.io/docs/
+- cadvisor github: https://github.com/google/cadvisor/
+- rook官方文档: https://rook.github.io/docs/rook/v1.17/Getting-Started/intro/
+- helm官方文档: https://helm.sh/docs/
+- prometheus官方文档: https://prometheus.io/docs/introduction/overview/
+- keda官方文档: https://keda.sh/docs/2.17/
+- terraform官方文档: https://www.terraform.io/docs/
+- terraform github: https://github.com/hashicorp/terraform/
+- argoCD官方文档: https://argo-cd.readthedocs.io/en/stable/
+- argoWorkflows官方文档: https://argoproj.github.io/argo-workflows/
+- argoRollouts官方文档: https://argoproj.github.io/argo-rollouts/
+- json-schema官方文档: https://json-schema.org/
+## AI高级工程师
+- modelcontextprotocol官方文档: https://modelcontextprotocol.io/introduction/
+- Dify官方文档: https://docs.dify.ai/en/introduction/
+- text2sql: https://www.text2sql.ai/docs/get-started/
+- scikit-learn官方文档: https://scikit-learn.org/stable/
+- scikit-learn github: https://github.com/scikit-learn/scikit-learn/tree/1.6.1/
+- numpy官方文档: https://numpy.org/doc/stable/
+- pandas官方文档: https://pandas.pydata.org/docs/
+## AWS高级工程师
+- AWS官方文档: https://docs.aws.amazon.com/index.html
