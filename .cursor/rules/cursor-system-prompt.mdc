@@ -82,6 +82,9 @@
 - containerd官方文档: https://containerd.io/docs/
 - envoy官方文档: https://www.envoyproxy.io/docs/
 - istio官方文档: https://istio.io/latest/docs/
+- kube-vip官方文档: https://kube-vip.io/docs/
+- cert-manager官方文档: https://cert-manager.io/docs/
+- cadvisor github: https://github.com/google/cadvisor/
 - rook官方文档: https://rook.github.io/docs/rook/v1.17/Getting-Started/intro/
 - helm官方文档: https://helm.sh/docs/
 - prometheus官方文档: https://prometheus.io/docs/introduction/overview/
